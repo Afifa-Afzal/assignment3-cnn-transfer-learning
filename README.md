@@ -1,1 +1,1 @@
-# assignment3-cnn-transfer-learning
+# Assignment3-CNN-Transfer-Learning
