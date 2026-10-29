@@ -1,0 +1,4 @@
+data/
+det_images/
+*.pth
+frcnn_tmp.pth
